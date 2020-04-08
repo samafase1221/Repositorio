@@ -1,0 +1,3 @@
+Conflicto1
+Conflicto2
+Conflicto3
